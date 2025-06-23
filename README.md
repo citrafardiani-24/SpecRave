@@ -1,1 +1,2 @@
 # SpecRave
+SpecRave adalah aplikasi yang berfungsi sebagai sistem rekomendasi handphone berbasis preferensi pengguna. Fungsi utamanya adalah membantu pengguna menemukan produk handphone yang paling sesuai dengan kebutuhan mereka tanpa harus mencari informasi dari berbagai sumber secara manual. SpecRave menyederhanakan proses pemilihan dengan menampilkan daftar handphone yang disesuaikan dengan kriteria pengguna, seperti kisaran harga, performa, ukuran layar, dan fitur lainnya.
