@@ -56,14 +56,14 @@
 
 ## 👥 Anggota Kelompok
 
-| Nama Lengkap                   | NPM           | Peran                                                             |
-| -------------------------------| ------------- | ----------------------------------------------------------------- |
-| \[Adrianne Julian Claresta]    | \[2317051002] | Fitur Banding Produk (logika & UI perbandingan handphone)         |
-| \[Citra Fardiani]              | \[2317051101] | Navigasi App (implementasi Navigation Component & Bottom Nav)     |
-| \[Maura Hellena]               | \[2317051105] | Fitur Simpan Produk (tampilan & logika produk tersimpan)          |
-| \[Dymaz Satya Putra]           | \[2357051017] | UI/UX Design (layout XML, tampilan Beranda & Detail Produk)       |
-| \[Sheva Lukiyanto]             | \[2317051046] | Firebase Integration (struktur DB, koneksi data, dan autentikasi) |
-| \[Arjuna Gunatama Sihombing]   | \[2317051085] | Search & Filter System (fitur pencarian, filter kategori/merek)   |
+| Nama Lengkap                 | NPM         | Peran                                                             |
+| ---------------------------- | ----------- | ----------------------------------------------------------------- |
+| \Adrianne Julian Claresta    | \2317051002 | Fitur Banding Produk (logika & UI perbandingan handphone)         |
+| \Citra Fardiani              | \2317051101 | Navigasi App (implementasi Navigation Component & Bottom Nav)     |
+| \Maura Hellena               | \2317051105 | Fitur Simpan Produk (tampilan & logika produk tersimpan)          |
+| \Dymaz Satya Putra           | \2357051017 | UI/UX Design (layout XML, tampilan Beranda & Detail Produk)       |
+| \Sheva Lukiyanto             | \2317051046 | Firebase Integration (struktur DB, koneksi data, dan autentikasi) |
+| \Arjuna Gunatama Sihombing   | \2317051085 | Search & Filter System (fitur pencarian, filter kategori/merek)   |
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
