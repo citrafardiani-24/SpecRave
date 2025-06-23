@@ -20,25 +20,26 @@
 ## 🖼️ Tampilan Desain Aplikasi
 
 ### 🔹 Halaman Beranda
-![Beranda](screenshots/beranda.png)
+![Screenshot 2025-06-23 205833](https://github.com/user-attachments/assets/cf3e3711-d57e-48dc-9bb0-926e54805dae)
 
 ### 🔹 Halaman Jelajahi
-![Jelajahi](screenshots/jelajahi.png)
+![Screenshot 2025-06-23 205918](https://github.com/user-attachments/assets/0d49f984-ec13-45ce-9430-00a841307d69)
 
 ### 🔹 Halaman Hasil Pencarian
-![Hasil Search](screenshots/hasil_search.png)
+![Screenshot 2025-06-23 210251](https://github.com/user-attachments/assets/375866f1-f8af-4170-a0c2-670410f6bd0b)
 
 ### 🔹 Halaman Detail Produk
-![Detail Produk](screenshots/detail_produk.png)
+![Screenshot 2025-06-23 210217](https://github.com/user-attachments/assets/541260b4-7f32-44c0-a569-9b68a4e9a77b)
 
 ### 🔹 Halaman Banding
-![Banding](screenshots/banding.png)
+![Screenshot 2025-06-23 205954](https://github.com/user-attachments/assets/21c42a08-ce6e-410b-8243-c41e78e74079)
 
 ### 🔹 Halaman Tersimpan
-![Tersimpan](screenshots/tersimpan.png)
+![Screenshot 2025-06-23 210036](https://github.com/user-attachments/assets/18e7a643-2f8d-4d31-88c4-868cabb06ae9)
 
 ### 🔹 Halaman Profil
-![Profil](screenshots/profil.png)
+![Screenshot 2025-06-23 210107](https://github.com/user-attachments/assets/005b6687-5bf6-4004-9ed1-1d9579df89f9)
+
 
 ------------------------------------------------------------------------------------
 
