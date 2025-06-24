@@ -31,7 +31,7 @@
 ![Screenshot 2025-06-23 210251](https://github.com/user-attachments/assets/375866f1-f8af-4170-a0c2-670410f6bd0b)
 
 
-### 🔹 Halaman Hasil Pencarian
+### 🔹 Halaman Filter Produk
 ![WhatsApp Image 2025-06-24 at 10 10 06_6d036c7a](https://github.com/user-attachments/assets/0096142b-059e-44d2-9a16-470d70a07a8f)
 
 
