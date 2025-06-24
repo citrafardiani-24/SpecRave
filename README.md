@@ -38,17 +38,17 @@
 ### 🔹 Halaman Detail Produk
 ![WhatsApp Image 2025-06-24 at 10 09 22_808df36c](https://github.com/user-attachments/assets/ab7b58ac-8c2e-494c-9a05-0681aa60982a)
 
+
 ### 🔹 Halaman Banding
-![Screenshot 2025-06-23 205954](https://github.com/user-attachments/assets/21c42a08-ce6e-410b-8243-c41e78e74079)
+![WhatsApp Image 2025-06-24 at 10 26 59_43e495bc](https://github.com/user-attachments/assets/723cc178-09f1-486e-81bb-242d8f3580c1)
 
 
 ### 🔹 Halaman Tersimpan
-![Screenshot 2025-06-23 210036](https://github.com/user-attachments/assets/18e7a643-2f8d-4d31-88c4-868cabb06ae9)
+![WhatsApp Image 2025-06-24 at 10 29 20_2bae3b57](https://github.com/user-attachments/assets/ae509231-c291-47c6-b365-738289679440)
 
 
 ### 🔹 Halaman Profil
-![Screenshot 2025-06-23 210107](https://github.com/user-attachments/assets/005b6687-5bf6-4004-9ed1-1d9579df89f9)
-
+![WhatsApp Image 2025-06-24 at 10 30 00_9de89507](https://github.com/user-attachments/assets/c660d78e-4394-4e50-ab5a-d7b7ab82ce75)
 
 
 ------------------------------------------------------------------------------------
