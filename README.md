@@ -10,7 +10,7 @@
 | ----------------- | ----------------------------------------------------------------------------------- |
 | 🔍 Pencarian      | Cari ponsel berdasarkan nama merek atau model dengan cepat                          |
 | 🎯 Filter Fitur   | Telusuri berdasarkan fitur penting: Kamera, Baterai, Gaming, Layar                  |
-| ⭐ Merek Favorit  | Tampilkan produk dari brand seperti Apple, Samsung, Google, Xiaomi, OnePlus, Realme |
+| ⭐ Merek Favorit  | Tampilkan produk dari brand seperti Samsung, Iphone, Xiaomi, Vivo, Oppo, Realme     |
 | 🤝 Bandingkan     | Bandingkan 2 atau lebih ponsel secara langsung dari spesifikasinya                  |
 | 💾 Simpan         | Simpan ponsel favorit untuk dilihat kembali nanti                                   |
 | 👤 Profil         | Kelola informasi akun dan preferensi pengguna                                       |
