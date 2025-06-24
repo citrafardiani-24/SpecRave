@@ -31,9 +31,12 @@
 ![Screenshot 2025-06-23 210251](https://github.com/user-attachments/assets/375866f1-f8af-4170-a0c2-670410f6bd0b)
 
 
-### 🔹 Halaman Detail Produk
-![Screenshot 2025-06-23 210217](https://github.com/user-attachments/assets/541260b4-7f32-44c0-a569-9b68a4e9a77b)
+### 🔹 Halaman Hasil Pencarian
+![WhatsApp Image 2025-06-24 at 10 10 06_6d036c7a](https://github.com/user-attachments/assets/0096142b-059e-44d2-9a16-470d70a07a8f)
 
+
+### 🔹 Halaman Detail Produk
+![WhatsApp Image 2025-06-24 at 10 09 22_808df36c](https://github.com/user-attachments/assets/ab7b58ac-8c2e-494c-9a05-0681aa60982a)
 
 ### 🔹 Halaman Banding
 ![Screenshot 2025-06-23 205954](https://github.com/user-attachments/assets/21c42a08-ce6e-410b-8243-c41e78e74079)
